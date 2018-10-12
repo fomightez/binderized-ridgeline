@@ -1,6 +1,6 @@
 # Experiment to see if can do real-world cheese plot
 
-[![Binder](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/fomightez/binderized-ridgeline/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fomightez/binderized-ridgeline/master?filepath=index.ipynb)
 
 
 Based on [this post](https://twitter.com/ClausWilke/status/932764406693482497) by [Claus Wilke](https://twitter.com/ClausWilke) and his code shared in a link there. Does it work in a Binder?
